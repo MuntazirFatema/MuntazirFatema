@@ -5,16 +5,17 @@
 🌍 Building toward ML roles abroad  
 
 ## 🛠️ Skills
-Python • Scikit-learn • Flask • Pandas • NumPy • Arduino • HTML/CSS
+Python • Scikit-learn • Flask • Pandas • NumPy • Arduino • HTML/CSS . PCA .SMOTE 
 
 ## 🚀 Live Projects
 | Project | Tech | Link |
 |---------|------|------|
 | Credit Card Fraud Detection | Random Forest, SMOTE, Flask | [Live](https://fraud-detection-system-2qbm.onrender.com) |
 | Drug Recommendation System | Decision Tree, Flask | [Live](https://drug-recommendation-system-jlhi.onrender.com) |
+|ECG Anomaly detector | XGBoost , SMOTE,Flask ,PCA |[Live]((https://ecg-enamoly-detector.onrender.com)
 
 ## 🧠 ML Algorithms Learned
-Logistic Regression • Decision Trees • Random Forests • Gradient Boosting • XGBoost • SVM • KNN • Naive Bayes
+Logistic Regression • Decision Trees • Random Forests • Gradient Boosting • XGBoost • SVM • KNN • Naive Bayes . K-means clustering 
 
 ## 📫 Contact
 Open to ML internship opportunities!
