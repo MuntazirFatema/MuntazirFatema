@@ -20,6 +20,7 @@ Python • Scikit-learn • Flask • Pandas • NumPy • PCA • SMOTE • XGB
 | 🫀 ECG Anomaly Detector | XGBoost, PCA, SMOTE, Flask | [Live](https://ecg-enamoly-detector.onrender.com) |
 | 💳 Credit Card Fraud Detection | Random Forest, SMOTE, Flask | [Live](https://fraud-detection-system-2qbm.onrender.com) |
 | 💊 Drug Recommendation System | Decision Tree, Flask | [Live](https://drug-recommendation-system-jlhi.onrender.com) |
+| student result anayzer | python, flask |[Live](
 
 ---
 
